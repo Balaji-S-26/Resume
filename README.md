@@ -1,1 +1,3 @@
 # Resume
+
+My first HTML project which introduces myself to whomever viewing this :) ...
